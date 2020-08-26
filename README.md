@@ -1,4 +1,4 @@
 steamBuddies
 ============
 
-Demo found at - http://steam.jardrab.us/
+Demo found at - http://steam.jeevnotes.xyz/
